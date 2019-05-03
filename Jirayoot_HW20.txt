@@ -1,0 +1,41 @@
+<!--
+
+Project Name: Hands on Exercises 6.1 - 6.3
+Author: Best Jirayoot
+Date Last Modified: May 3, 2019
+
+-->
+
+<!-- Question 1 -->
+
+#questionone {
+	
+	float: left;
+	background-color: #ede1d1;
+	font-family: Verdana, sans-serif;
+	font-size: large;
+	padding: 20px;
+}
+
+<!-- Question 2 -->
+
+h1.questiontwo {
+	
+	border-bottom: 1px dashed #79baaf;
+	color: #cb92e9;
+
+}
+
+<!-- Question 3 -->
+
+#questionthree {
+	
+	position: absolute;
+	top: 20px;
+	right: 40px;
+	background-color: #d3d3d3;
+	border: 1px solid #000000;
+
+
+}
+
